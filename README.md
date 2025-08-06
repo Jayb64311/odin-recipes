@@ -1,1 +1,2 @@
-# odin-recipes
+This project consists of building a functional website that hosts a few recipes.
+To finish this, I need to know how to create a new repository in GitHub, clone it onto my machine. After that I need create an index.html file inside it, fill it out with the usual boilerplate code, and later personalize it by adding a heading, links, images, lists etcetera.
